@@ -1,1 +1,1 @@
-# ejercicio-02
+# mediosInteractivos
